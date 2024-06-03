@@ -1,0 +1,11 @@
+﻿langchain>=0.2
+langchain_community
+langgraph
+httpx
+jq
+chromadb
+langchain-chroma
+lark
+langfuse
+python-dotenv
+langchain_aws
